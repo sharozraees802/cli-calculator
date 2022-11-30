@@ -1,7 +1,7 @@
+#!/usr/bin/env node
 import chalkAnimation from 'chalk-animation';
 import inquirer from 'inquirer';
 import chalk from 'chalk';
-// chalkAnimation.rainbow('Lorem ipsum dolor sit amet');
 import gradient from 'gradient-string';
 import figlet from "figlet";
 const WelcomeScreen = () => {

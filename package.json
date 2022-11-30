@@ -1,6 +1,6 @@
 {
   "name": "last-cli-calculator",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "@lastcode802 Cli Calculator",
   "type": "module",
   "main": "index.js",
